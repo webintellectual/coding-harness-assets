@@ -13,3 +13,6 @@ stated here (e.g. a rule the user wants changed or a constraint that no longer h
 
 If you are unsure whether something is a rule or a stale claim, verify against the code and ask
 before proceeding.
+
+## Diagram Tool
+Use mermaid for diagrams
