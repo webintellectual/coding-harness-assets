@@ -56,3 +56,8 @@
 - **Pre-task checklist.** No untyped dict/`Any` carrying structured data; every system boundary
   validates with Pydantic v2; internal structured objects are frozen dataclasses; must-stay-dict
   shapes are TypedDicts; no Pydantic v1 APIs.
+
+
+## Type checker and language server for Python
+
+Use `pyrefly` (https://pyrefly.org/)
